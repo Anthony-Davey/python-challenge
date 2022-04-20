@@ -6,11 +6,11 @@ This is an analysis of company financial records. The dataset is composed of two
 Dataset can be found under python-challenge/PyBank/Resources/budget_data.csv
 
 ### Business Questions 
-What is the total number of months included in the dataset?
-What is the net total amount of "Profit/Losses" over the entire period?
-What are the monthly changes in profit, and what is the average of those changes?
-What was the greatest increase in profits and what month did it occur?
-What was the greatest decrease in profits and what month did it occur?
+What is the total number of months included in the dataset?_
+What is the net total amount of "Profit/Losses" over the entire period?_
+What are the monthly changes in profit, and what is the average of those changes?_
+What was the greatest increase in profits and what month did it occur?_
+What was the greatest decrease in profits and what month did it occur?_
 
 ### Output
 Final script must print the results in the terminal - Can be found under python-challenge/PyBank/main.py
